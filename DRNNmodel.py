@@ -44,7 +44,7 @@ mods = classes
 maxlen=256
 
 
-filename1 = 'GenDataRSNT_10_snrss2.h5' # load the dataset 
+filename1 = 'GenDataRSNT_10_snrss2_NW.h5' # load the dataset 
 h5f = h5py.File(filename1, 'r')
 
 X_train_t = h5f['X_train']
