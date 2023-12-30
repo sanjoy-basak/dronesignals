@@ -1,5 +1,5 @@
 Drone signals: single-signal classification scenario
-The signal is uploaded in the following link:
+The dataset can be downloaded from the following link:
 https://kuleuven-my.sharepoint.com/:u:/g/personal/sanjoy_basak_kuleuven_be/EerXZTSHi5ZCj2i_PED6X4sBIGkQqlFQiyRpGAVzQIjBOQ?e=6q23OJ
 
 This database is used in the following paper:
